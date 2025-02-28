@@ -1,0 +1,4 @@
+image-auto-update-controller
+.terraform
+.terraform.*
+/c.tar
