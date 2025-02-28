@@ -7,7 +7,6 @@ on:
 
 jobs:
   package:
-    needs: get_version
     runs-on: ubuntu-latest
     permissions:
       packages: write
