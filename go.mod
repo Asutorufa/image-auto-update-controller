@@ -4,7 +4,7 @@ go 1.24.0
 
 require (
 	github.com/containerd/containerd/v2 v2.1.4
-	github.com/stretchr/testify v1.10.0
+	github.com/stretchr/testify v1.11.0
 	go.opentelemetry.io/otel/trace v1.37.0
 	k8s.io/api v0.33.4
 	k8s.io/apimachinery v0.33.4
